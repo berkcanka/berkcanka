@@ -1,9 +1,9 @@
 
 # Merhaba, ben Berk Can!
 
-## Web, backend ve mobil uygulamalar geliştiriyorum.
+## Web, mobil ve masaüstü platformları için yazılım çözümleri geliştiriyorum.
 
-**C#, ASP.NET Core, PHP, Python, Next.js ve Flutter başta olmak üzere farklı teknolojilerle yazılım projeleri geliştiriyorum. Web uygulamalarından API geliştirmeye, veritabanı sistemlerinden mobil uygulamalara kadar yazılım geliştirme süreçlerinin farklı alanlarında çalışıyorum. Otomotiv ve gayrimenkul teknolojilerine yönelik Otomobilsiz ve Emlaksız projelerim üzerinde çalışıyorum.**
+**C#, ASP.NET Core, PHP, Python, Next.js ve Flutter başta olmak üzere farklı teknolojilerle yazılım projeleri geliştiriyorum. Web uygulamaları, API servisleri, veritabanı sistemleri ve masaüstü yazılımlar üzerinde çalışıyorum. Otomotiv ve gayrimenkul teknolojilerine yönelik Otomobilsiz ve Emlaksız projelerimi geliştiriyorum.**
 
 <p>
   <a href="https://www.linkedin.com/in/berkcankalem/">
