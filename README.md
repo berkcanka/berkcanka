@@ -1,16 +1,12 @@
 
-<!-- ===================================================== -->
-<!-- BERK CAN KALEM | GITHUB PROFILE README                 -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=700&height=55&lines=Berk+Can+Kalem;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Fikirleri+Yaz%C4%B1l%C4%B1ma+D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Berk Can Kalem - Animasyonlu başlık" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=700&height=55&lines=Berk+Can+Kalem;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Web+%7C+Backend+%7C+Mobil" alt="Berk Can Kalem" />
 
   <p>
-    <strong>Yazılım Geliştirici | Bilgisayar Mühendisliği Mezunu</strong>
+    Yazılım Geliştirici
     <br />
-    Dijital fikirler geliştiriyor, gerçek problemlere yazılım çözümleri üretiyorum.
+    Web, backend ve mobil uygulama geliştirme
   </p>
 
   <a href="https://www.linkedin.com/in/berkcankalem/">
@@ -26,19 +22,17 @@
 
 ## Hakkımda
 
-Ben **Berk Can Kalem**. Bilgisayar Mühendisliği mezunu bir yazılım geliştiriciyim. Kullanışlı, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum.
+Yazılım geliştirme alanında web, backend ve mobil uygulamalar üzerine çalışıyorum. Farklı teknolojileri kullanarak ihtiyaçlara yönelik uygulamalar geliştiriyor, projelerin tasarımından veritabanına ve uygulama geliştirme süreçlerine kadar farklı aşamalarında yer alıyorum.
 
-Backend, web ve mobil uygulama geliştirme alanlarında çalışıyor; farklı teknolojileri bir araya getirerek fikirleri çalışan ürünlere dönüştürüyorum.
+Özellikle ilgilendiğim alanlar:
 
-İlgilendiğim başlıca alanlar:
-
-- Backend mimarisi ve API geliştirme
-- Full-stack web uygulamaları
+- Web uygulamaları ve backend geliştirme
+- RESTful API tasarımı ve geliştirme
 - Veritabanı tasarımı ve yönetimi
 - Mobil uygulama geliştirme
-- Otomasyon ve veri odaklı yazılım çözümleri
+- Otomasyon ve veri işleme sistemleri
 
-Yeni teknolojiler öğrenmeyi, mühendislik problemlerine çözüm üretmeyi ve geliştirdiğim projeleri sürekli iyileştirmeyi seviyorum.
+Geliştirdiğim projelerde okunabilir kod, sürdürülebilir yapı ve işlevsel çözümler oluşturmaya önem veriyorum.
 
 ---
 
@@ -74,7 +68,7 @@ Yeni teknolojiler öğrenmeyi, mühendislik problemlerine çözüm üretmeyi ve 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-### Veritabanı ve Araçlar
+### Veritabanı ve Geliştirme Araçları
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -91,30 +85,30 @@ Yeni teknolojiler öğrenmeyi, mühendislik problemlerine çözüm üretmeyi ve 
 
 ### Otomobilsiz
 
-Otomotiv alanına yönelik, araç verilerini ve dijital çözümleri bir araya getirmeyi hedefleyen yazılım projesi.
+Otomotiv sektörüne yönelik geliştirdiğim yazılım projesi. Araç ilanları, otomotiv verileri ve kullanıcı odaklı dijital çözümler üzerine çalışıyorum.
 
-**Odak Alanları:** Otomotiv Yazılımları · Web Geliştirme · Veri Yönetimi
+**Teknolojiler ve alanlar:** Web Geliştirme · Veritabanı · Otomotiv
 
 ### Emlaksız
 
-Gayrimenkul keşfini ve parsel bilgilerine erişimi kolaylaştırmayı hedefleyen dijital platform projesi.
+Gayrimenkul ve parsel bilgilerine erişimi kolaylaştırmayı amaçlayan platform projesi. Harita tabanlı parsel görüntüleme ve ilan yönetimi gibi özelliklere odaklanıyor.
 
-**Odak Alanları:** Gayrimenkul Teknolojileri · Harita Sistemleri · Web Uygulamaları
+**Teknolojiler ve alanlar:** Web Geliştirme · Harita Sistemleri · Veritabanı
 
 ---
 
 ## GitHub Etkinliğim
 
-GitHub üzerindeki çalışmalarımı, açık kaynak katkılarımı ve geliştirdiğim projeleri aşağıdaki bağlantılardan inceleyebilirsin.
+Geliştirdiğim projeleri ve GitHub üzerindeki çalışmalarımı inceleyebilirsin.
 
 <div align="center">
 
   <a href="https://github.com/berkcanka?tab=repositories">
-    <img src="https://img.shields.io/badge/Projelerimi%20Ke%C5%9Ffet-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projeleri" />
+    <img src="https://img.shields.io/badge/Projelerim-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projelerim" />
   </a>
 
-  <a href="https://github.com/berkcanka?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://img.shields.io/badge/Katk%C4%B1%20Ge%C3%A7mi%C5%9Fim-GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub katkı geçmişi" />
+  <a href="https://github.com/berkcanka?tab=overview">
+    <img src="https://img.shields.io/badge/Katk%C4%B1lar%C4%B1m-GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub katkılarım" />
   </a>
 
 </div>
@@ -123,7 +117,7 @@ GitHub üzerindeki çalışmalarımı, açık kaynak katkılarımı ve geliştir
 
 ## İletişim
 
-Yeni projeler, teknoloji ve iş birliği fırsatları hakkında iletişime geçebilirsin.
+Yazılım projeleri, teknik konular ve iş birliği fırsatları için benimle LinkedIn üzerinden iletişime geçebilirsin.
 
 <div align="center">
 
@@ -133,6 +127,6 @@ Yeni projeler, teknoloji ve iş birliği fırsatları hakkında iletişime geçe
 
   <br /><br />
 
-  <sub>Fikirleri yazılıma, çözümleri gerçek ürünlere dönüştürüyorum.</sub>
+  <sub>Yazılım geliştiriyor, yeni şeyler öğreniyor ve projeler üretiyorum.</sub>
 
 </div>
