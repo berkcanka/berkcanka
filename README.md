@@ -5,16 +5,16 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Berk+Can+Kalem;Software+Developer;Building+Scalable+Digital+Products" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=700&height=55&lines=Berk+Can+Kalem;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Fikirleri+Yaz%C4%B1l%C4%B1ma+D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Berk Can Kalem - Animasyonlu başlık" />
 
   <p>
-    <strong>Software Developer</strong>
+    <strong>Yazılım Geliştirici | Bilgisayar Mühendisliği Mezunu</strong>
     <br />
-    Designing, developing and improving digital solutions.
+    Dijital fikirler geliştiriyor, gerçek problemlere yazılım çözümleri üretiyorum.
   </p>
 
   <a href="https://www.linkedin.com/in/berkcankalem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1%20Kur-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/berkcanka">
     <img src="https://img.shields.io/badge/GitHub-berkcanka-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -24,27 +24,27 @@
 
 ---
 
-## About
+## Hakkımda
 
-I'm **Berk Can Kalem**, a Software Developer and Computer Engineering graduate interested in building practical, scalable and user-focused software solutions.
+Ben **Berk Can Kalem**. Bilgisayar Mühendisliği mezunu bir yazılım geliştiriciyim. Kullanışlı, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum.
 
-I work across backend, web and mobile development, combining different technologies to turn ideas into functional products.
+Backend, web ve mobil uygulama geliştirme alanlarında çalışıyor; farklı teknolojileri bir araya getirerek fikirleri çalışan ürünlere dönüştürüyorum.
 
-My main areas of interest include:
+İlgilendiğim başlıca alanlar:
 
-- Backend architecture and API development
-- Full-stack web application development
-- Database design and management
-- Mobile application development
-- Automation and data-driven solutions
+- Backend mimarisi ve API geliştirme
+- Full-stack web uygulamaları
+- Veritabanı tasarımı ve yönetimi
+- Mobil uygulama geliştirme
+- Otomasyon ve veri odaklı yazılım çözümleri
 
-I enjoy exploring new technologies, solving engineering problems and continuously improving the quality of my work.
+Yeni teknolojiler öğrenmeyi, mühendislik problemlerine çözüm üretmeyi ve geliştirdiğim projeleri sürekli iyileştirmeyi seviyorum.
 
 ---
 
-## Technology Stack
+## Teknolojiler
 
-### Backend Development
+### Backend Geliştirme
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
@@ -55,7 +55,7 @@ I enjoy exploring new technologies, solving engineering problems and continuousl
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-### Frontend Development
+### Web Geliştirme
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -66,7 +66,7 @@ I enjoy exploring new technologies, solving engineering problems and continuousl
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-### Mobile Development
+### Mobil Geliştirme
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -74,7 +74,7 @@ I enjoy exploring new technologies, solving engineering problems and continuousl
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-### Databases & Tools
+### Veritabanı ve Araçlar
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -87,52 +87,52 @@ I enjoy exploring new technologies, solving engineering problems and continuousl
 
 ---
 
-## Featured Projects
+## Öne Çıkan Projeler
 
 ### Otomobilsiz
 
-A software project focused on the automotive domain, bringing together automotive data and digital solutions.
+Otomotiv alanına yönelik, araç verilerini ve dijital çözümleri bir araya getirmeyi hedefleyen yazılım projesi.
 
-**Focus:** Automotive Software · Web Development · Data Management
+**Odak Alanları:** Otomotiv Yazılımları · Web Geliştirme · Veri Yönetimi
 
 ### Emlaksız
 
-A real estate-focused digital platform concept designed to make property discovery and parcel-related information more accessible.
+Gayrimenkul keşfini ve parsel bilgilerine erişimi kolaylaştırmayı hedefleyen dijital platform projesi.
 
-**Focus:** Real Estate Technology · Mapping · Web Applications
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=berkcanka&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcanka&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=berkcanka&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="GitHub contribution activity" />
-
-</div>
+**Odak Alanları:** Gayrimenkul Teknolojileri · Harita Sistemleri · Web Uygulamaları
 
 ---
 
-## Let's Connect
+## GitHub Etkinliğim
 
-I'm always interested in meaningful projects, new technologies and opportunities to collaborate.
+GitHub üzerindeki çalışmalarımı, açık kaynak katkılarımı ve geliştirdiğim projeleri aşağıdaki bağlantılardan inceleyebilirsin.
+
+<div align="center">
+
+  <a href="https://github.com/berkcanka?tab=repositories">
+    <img src="https://img.shields.io/badge/Projelerimi%20Ke%C5%9Ffet-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projeleri" />
+  </a>
+
+  <a href="https://github.com/berkcanka?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/Katk%C4%B1%20Ge%C3%A7mi%C5%9Fim-GitHub-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub katkı geçmişi" />
+  </a>
+
+</div>
+
+---
+
+## İletişim
+
+Yeni projeler, teknoloji ve iş birliği fırsatları hakkında iletişime geçebilirsin.
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/berkcankalem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Berk%20Can%20Kalem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Berk%20Can%20Kalem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profili" />
   </a>
 
   <br /><br />
 
-  <sub>Building ideas into software, one step at a time.</sub>
+  <sub>Fikirleri yazılıma, çözümleri gerçek ürünlere dönüştürüyorum.</sub>
 
 </div>
