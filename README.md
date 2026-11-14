@@ -82,8 +82,8 @@
 
 <a href="https://github.com/berkcanka/otomobilsiz">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkcanka/otomobilsiz/main/.github/assets/logo-dark.png">
-    <img src="https://raw.githubusercontent.com/berkcanka/otomobilsiz/main/.github/assets/logo-light.png" alt="otomobilsiz" width="210">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/otomobilsiz-logo-dark.png">
+    <img src=".github/assets/otomobilsiz-logo-light.png" alt="otomobilsiz" width="200">
   </picture>
 </a>
 
