@@ -53,7 +53,7 @@
 <a href="https://github.com/berkcanka/emlaksiz">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkcanka/emlaksiz/main/.github/assets/logo-dark.png">
-    <img src="https://raw.githubusercontent.com/berkcanka/emlaksiz/main/.github/assets/logo-light.png" alt="Emlaksız" height="72">
+    <img src="https://raw.githubusercontent.com/berkcanka/emlaksiz/main/.github/assets/logo-light.png" alt="Emlaksız" width="200">
   </picture>
 </a>
 
@@ -83,7 +83,7 @@
 <a href="https://github.com/berkcanka/otomobilsiz">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkcanka/otomobilsiz/main/.github/assets/logo-dark.png">
-    <img src="https://raw.githubusercontent.com/berkcanka/otomobilsiz/main/.github/assets/logo-light.png" alt="otomobilsiz" height="72">
+    <img src="https://raw.githubusercontent.com/berkcanka/otomobilsiz/main/.github/assets/logo-light.png" alt="otomobilsiz" width="210">
   </picture>
 </a>
 
@@ -114,25 +114,24 @@
 <h2 align="center">Teknolojiler</h2>
 
 <div align="center">
-
-<sub><b>BACKEND</b></sub><br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,php,py,fastapi&theme=dark" alt="C#, .NET, NestJS, PHP, Python, FastAPI">
-
-<br><br>
-
-<sub><b>WEB</b></sub><br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS">
-
-<br><br>
-
-<sub><b>MOBİL</b></sub><br>
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark" alt="React Native, Flutter, Dart, Firebase">
-
-<br><br>
-
-<sub><b>VERİ VE ARAÇLAR</b></sub><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,docker,git,visualstudio,vscode&theme=dark" alt="PostgreSQL, MySQL, Redis, Prisma, Docker, Git, Visual Studio, VS Code">
-
+<table>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,php,py,fastapi&theme=dark&perline=8" alt="C#, .NET, NestJS, PHP, Python, FastAPI" height="40"></td>
+</tr>
+<tr>
+<td align="right"><b>Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark&perline=8" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS" height="40"></td>
+</tr>
+<tr>
+<td align="right"><b>Mobil</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark&perline=8" alt="React Native, Flutter, Dart, Firebase" height="40"></td>
+</tr>
+<tr>
+<td align="right"><b>Veri ve araçlar</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,docker,git,visualstudio,vscode&theme=dark&perline=8" alt="PostgreSQL, MySQL, Redis, Prisma, Docker, Git, Visual Studio, VS Code" height="40"></td>
+</tr>
+</table>
 </div>
 
 <br>
