@@ -1,107 +1,158 @@
+<div align="center">
 
-# Merhaba, ben Berk Can!
+<br>
 
-## Web, mobil ve masaüstü platformları için yazılım çözümleri geliştiriyorum.
+<h1>Merhaba, ben Berk Can 👋</h1>
 
-**C#, ASP.NET Core, PHP, Python, Next.js ve Flutter başta olmak üzere farklı teknolojilerle yazılım projeleri geliştiriyorum. Web uygulamaları, API servisleri, veritabanı sistemleri ve masaüstü yazılımlar üzerinde çalışıyorum. Otomotiv ve gayrimenkul teknolojilerine yönelik Otomobilsiz ve Emlaksız projelerimi geliştiriyorum.**
+<h3>Fikirleri web, mobil ve masaüstünde çalışan ürünlere dönüştürüyorum.</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/berkcankalem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1%20Kur-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/berkcanka">
-    <img src="https://img.shields.io/badge/GitHub-berkcanka-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  Full-stack yazılım geliştiriciyim. Sağlam API'ler, hızlı web arayüzleri ve mobil uygulamalar geliştiriyorum.<br>
+  Şu sıralar gayrimenkul ve otomotiv için kendi ürünlerim <b>Emlaksız</b> ve <b>otomobilsiz</b>'i büyütüyorum.
 </p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/berkcankalem/"><img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1%20kur-0A66C2?style=for-the-badge&labelColor=111111&logo=linkedin&logoColor=white" alt="LinkedIn'de bağlantı kur"></a>
+&nbsp;
+<a href="https://github.com/berkcanka?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projelerim-6E40C9?style=for-the-badge&labelColor=111111&logo=github&logoColor=white" alt="GitHub projelerim"></a>
+
+<img src="https://img.shields.io/badge/odak-full--stack-6E40C9?style=flat-square&labelColor=111111" alt="Odak: full-stack">
+<img src="https://img.shields.io/badge/platform-Web%20%C2%B7%20Mobil%20%C2%B7%20Masa%C3%BCst%C3%BC-6E40C9?style=flat-square&labelColor=111111" alt="Platformlar: Web, Mobil, Masaüstü">
+<img src="https://img.shields.io/badge/i%C5%9F%20birli%C4%9Fi-a%C3%A7%C4%B1k-22C55E?style=flat-square&labelColor=111111" alt="İş birliğine açık">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<h3>🙋 Kısaca ben</h3>
+
+- 🚀 &nbsp;Bir ürünü fikirden yayına kadar uçtan uca geliştiriyorum: arayüz, backend, mobil uygulama ve canlıya alma.
+- 🧱 &nbsp;Backend'de **C# / ASP.NET Core** ve **NestJS**, arayüzde **Next.js / React**, mobilde **React Native** ve **Flutter** kullanıyorum.
+- 📍 &nbsp;Harita tabanlı uygulamalar, gerçek zamanlı mesajlaşma ve fiyat analizi en sevdiğim problem alanları.
+- 🤝 &nbsp;Yazılım projeleri ve iş birliği fırsatları için her zaman konuşmaya açığım.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">Öne Çıkan Projeler</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<br>
+
+<a href="https://github.com/berkcanka/emlaksiz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkcanka/emlaksiz/main/.github/assets/logo-dark.png">
+    <img src="https://raw.githubusercontent.com/berkcanka/emlaksiz/main/.github/assets/logo-light.png" alt="Emlaksız" height="72">
+  </picture>
+</a>
+
+<h4>Kimse emlaksız kalmasın.</h4>
+
+<sub>Emlakçılar ve yatırımcılar için harita odaklı emlak platformu. Ortak portföy, tek tıkla sanal drone klibi, 360° tur ve ekspertiz raporu tek uygulamada.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/React%20Native-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/ASP.NET%20Core-111111?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+<img src="https://img.shields.io/badge/PostGIS-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL ve PostGIS">
+
+<br><br>
+
+<a href="https://github.com/berkcanka/emlaksiz"><img src="https://img.shields.io/badge/%E2%96%B6%20Tan%C4%B1t%C4%B1m%C4%B1%20izle-006875?style=for-the-badge" alt="Emlaksız tanıtımını izle"></a>
+<a href="https://emlaksiz.com"><img src="https://img.shields.io/badge/emlaksiz.com-111111?style=for-the-badge" alt="emlaksiz.com"></a>
+
+<br><br>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<br>
+
+<a href="https://github.com/berkcanka/otomobilsiz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkcanka/otomobilsiz/main/.github/assets/logo-dark.png">
+    <img src="https://raw.githubusercontent.com/berkcanka/otomobilsiz/main/.github/assets/logo-light.png" alt="otomobilsiz" height="72">
+  </picture>
+</a>
+
+<h4>Aradığın aracı yaz. Kelepir düşünce haberin olsun.</h4>
+
+<sub>İkinci el araç ilanlarını emsalleriyle kıyaslayan ve fiyat piyasanın altına indiği anda seni uyaran akıllı fiyat alarmı.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Expo-111111?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+<img src="https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS">
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+<br><br>
+
+<a href="https://github.com/berkcanka/otomobilsiz"><img src="https://img.shields.io/badge/%E2%96%B6%20Tan%C4%B1t%C4%B1m%C4%B1%20izle-EF4444?style=for-the-badge" alt="otomobilsiz tanıtımını izle"></a>
+<a href="https://otomobilsiz.com"><img src="https://img.shields.io/badge/otomobilsiz.com-111111?style=for-the-badge" alt="otomobilsiz.com"></a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">Teknolojiler</h2>
+
+<div align="center">
+
+<sub><b>BACKEND</b></sub><br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,php,py,fastapi&theme=dark" alt="C#, .NET, NestJS, PHP, Python, FastAPI">
+
+<br><br>
+
+<sub><b>WEB</b></sub><br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS">
+
+<br><br>
+
+<sub><b>MOBİL</b></sub><br>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark" alt="React Native, Flutter, Dart, Firebase">
+
+<br><br>
+
+<sub><b>VERİ VE ARAÇLAR</b></sub><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,docker,git,visualstudio,vscode&theme=dark" alt="PostgreSQL, MySQL, Redis, Prisma, Docker, Git, Visual Studio, VS Code">
+
+</div>
+
+<br>
 
 ---
 
-## Teknolojiler
+<div align="center">
 
-### Backend Geliştirme
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+<h3>Birlikte bir şey geliştirelim mi?</h3>
 
-### Web Geliştirme
+<sub>Yazılım projeleri ve iş birliği fırsatları için LinkedIn'den yazabilirsin.</sub>
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+<br><br>
 
-### Mobil Geliştirme
+<a href="https://www.linkedin.com/in/berkcankalem/"><img src="https://img.shields.io/badge/LinkedIn-Berk%20Can%20Kalem-0A66C2?style=for-the-badge&labelColor=111111&logo=linkedin&logoColor=white" alt="LinkedIn: Berk Can Kalem"></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+<br><br>
 
-### Veritabanı ve Geliştirme Araçları
+<sub>Yeni fikirler, yeni projeler, sürekli gelişim.</sub>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
-
----
-
-## Öne Çıkan Projeler
-
-### Otomobilsiz
-
-Otomotiv sektörüne yönelik geliştirdiğim web projesi. Otomotiv alanındaki ihtiyaçlara dijital çözümler sunmayı ve kullanıcıların araçlarla ilgili işlemlerini kolaylaştırmayı hedefliyor.
-
-**Odak alanları:** Otomotiv · Web Geliştirme · Veri Yönetimi
-
-### Emlaksız
-
-Gayrimenkul ve parsel bilgilerine erişimi kolaylaştırmayı amaçlayan dijital platform projesi. Harita tabanlı parsel sorgulama ve gayrimenkul ilanları üzerine odaklanıyor.
-
-**Odak alanları:** Gayrimenkul Teknolojileri · Harita Sistemleri · Web Geliştirme
-
----
-
-## GitHub
-
-Geliştirdiğim projeleri ve GitHub üzerindeki çalışmalarımı inceleyebilirsin.
-
-<p>
-  <a href="https://github.com/berkcanka?tab=repositories">
-    <img src="https://img.shields.io/badge/Projelerimi%20G%C3%B6r%C3%BCnt%C3%BCle-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projelerim" />
-  </a>
-  <a href="https://github.com/berkcanka?tab=overview">
-    <img src="https://img.shields.io/badge/GitHub%20Profilim-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profilim" />
-  </a>
-</p>
-
----
-
-## İletişim
-
-Yazılım projeleri ve iş birliği fırsatları hakkında benimle iletişime geçebilirsin.
-
-<p>
-  <a href="https://www.linkedin.com/in/berkcankalem/">
-    <img src="https://img.shields.io/badge/LinkedIn-Berk%20Can%20Kalem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profili" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Yeni fikirler, yeni projeler, sürekli gelişim.</sub>
-</p>
+</div>
