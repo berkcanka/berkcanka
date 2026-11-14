@@ -7,7 +7,7 @@
 <h3>Fikirleri web, mobil ve masaüstünde çalışan ürünlere dönüştürüyorum.</h3>
 
 <p>
-  Full-stack yazılım geliştiriciyim. Sağlam API'ler, hızlı web arayüzleri ve mobil uygulamalar geliştiriyorum.<br>
+  Junior yazılım geliştiriciyim. API'ler, web arayüzleri ve mobil uygulamalar geliştirerek her gün yeni şeyler öğreniyorum.<br>
   Şu sıralar gayrimenkul ve otomotiv için kendi ürünlerim <b>Emlaksız</b> ve <b>otomobilsiz</b>'i büyütüyorum.
 </p>
 
@@ -17,7 +17,7 @@
 &nbsp;
 <a href="https://github.com/berkcanka?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projelerim-6E40C9?style=for-the-badge&labelColor=111111&logo=github&logoColor=white" alt="GitHub projelerim"></a>
 
-<img src="https://img.shields.io/badge/odak-full--stack-6E40C9?style=flat-square&labelColor=111111" alt="Odak: full-stack">
+<img src="https://img.shields.io/badge/seviye-junior-6E40C9?style=flat-square&labelColor=111111" alt="Seviye: junior">
 <img src="https://img.shields.io/badge/platform-Web%20%C2%B7%20Mobil%20%C2%B7%20Masa%C3%BCst%C3%BC-6E40C9?style=flat-square&labelColor=111111" alt="Platformlar: Web, Mobil, Masaüstü">
 <img src="https://img.shields.io/badge/i%C5%9F%20birli%C4%9Fi-a%C3%A7%C4%B1k-22C55E?style=flat-square&labelColor=111111" alt="İş birliğine açık">
 
@@ -31,7 +31,7 @@
 
 <h3>🙋 Kısaca ben</h3>
 
-- 🚀 &nbsp;Bir ürünü fikirden yayına kadar uçtan uca geliştiriyorum: arayüz, backend, mobil uygulama ve canlıya alma.
+- 🚀 &nbsp;Kendi projelerimde arayüzden backend'e, mobil uygulamadan canlıya almaya kadar her adımı öğrenerek ilerliyorum.
 - 🧱 &nbsp;Backend'de **C# / ASP.NET Core** ve **NestJS**, arayüzde **Next.js / React**, mobilde **React Native** ve **Flutter** kullanıyorum.
 - 📍 &nbsp;Harita tabanlı uygulamalar, gerçek zamanlı mesajlaşma ve fiyat analizi en sevdiğim problem alanları.
 - 🤝 &nbsp;Yazılım projeleri ve iş birliği fırsatları için her zaman konuşmaya açığım.
